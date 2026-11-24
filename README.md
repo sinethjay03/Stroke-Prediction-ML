@@ -18,6 +18,13 @@ The project uses the Stroke Prediction Dataset.
 
 The dataset contains demographic, health-related, and lifestyle features such as age, gender, hypertension, heart disease, average glucose level, BMI, smoking status, and work type.
 
+### Dataset Source
+The dataset used in this project was obtained from Kaggle.
+
+- Dataset: Stroke Prediction Dataset
+- Source: [Kaggle – Stroke Prediction Dataset] (https://www.kaggle.com/datasets/fedesoriano/
+stroke-prediction-dataset))
+
 ## Machine Learning Models
 Five classification algorithms were implemented and evaluated:
 
